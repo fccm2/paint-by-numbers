@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>Paint-by-Numbers</title>
+<style>
+svg { border:1px #000 solid; }
+</style>
+</head>
+<body>
+
+<svg width="150" height="50" id="palette">
+  <rect class="color" id="color1" x="10" y="10" width="30" height="30" fill="red" />
+  <rect class="color" id="color2" x="60" y="10" width="30" height="30" fill="green" />
+  <rect class="color" id="color3" x="110" y="10" width="30" height="30" fill="blue" />
+</svg>
+
+<br />
+
+<svg width="300" height="200">
+  <g>
+    <rect class="zone" x="10" y="10" width="60" height="60" fill="#aaa" />
+    <text x="30" y="30" text-anchor="middle" dominant-baseline="middle">1</text>
+  </g>
+  <g>
+    <circle class="zone" cx="120" cy="40" r="30" fill="#aaa" />
+    <text x="110" y="30" text-anchor="middle" dominant-baseline="middle">2</text>
+  </g>
+  <g>
+    <polygon class="zone" points="170,70 200,10 230,70" fill="#aaa" />
+    <text x="200" y="34" text-anchor="middle" dominant-baseline="middle">3</text>
+  </g>
+</svg>
+
+<script>
+  let selectedColor = null;
+
+  document.querySelectorAll('.color').forEach(elm => {
+    elm.addEventListener('click', () => {
+      selectedColor = elm.getAttribute('fill');
+      //console.log("Selected Color:", selectedColor); // check in the console
+    });
+  });
+
+  document.querySelectorAll('.zone').forEach(zone => {
+    zone.addEventListener('click', () => {
+      if (selectedColor) {
+        zone.setAttribute('fill', selectedColor);
+      } else {
+        alert("Please select a color first.");
+      }
+    });
+  });
+</script>
+
+</body>
+</html>
