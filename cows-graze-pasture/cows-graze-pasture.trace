@@ -1,0 +1,1 @@
+autotrace --color-count 8 --despeckle-level 8 --output-format svg cows-graze-pasture.pnm
