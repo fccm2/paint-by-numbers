@@ -14,3 +14,6 @@ https://fccm2.github.io/paint-by-numbers/mountains-landscape-rainbow/mountains-l
 - [mailbox-numbers](
 https://fccm2.github.io/paint-by-numbers/mailbox-numbers/mailbox-numbers.html)
 
+- [autumn-road-mountain](
+https://fccm2.github.io/paint-by-numbers/autumn-road-mountain/autumn-road-mountain.html)
+
