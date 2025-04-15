@@ -17,3 +17,6 @@ https://fccm2.github.io/paint-by-numbers/mailbox-numbers/mailbox-numbers.html)
 - [autumn-road-mountain](
 https://fccm2.github.io/paint-by-numbers/autumn-road-mountain/autumn-road-mountain.html)
 
+- [interior-room-sofa](
+https://fccm2.github.io/paint-by-numbers/interior-room-sofa/interior-room-sofa.html)
+
