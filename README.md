@@ -11,3 +11,6 @@ https://fccm2.github.io/paint-by-numbers/calf-closeup-brown/calf-closeup-brown.h
 - [mountains-landscape-rainbow](
 https://fccm2.github.io/paint-by-numbers/mountains-landscape-rainbow/mountains-landscape-rainbow.html)
 
+- [mailbox-numbers](
+https://fccm2.github.io/paint-by-numbers/mailbox-numbers/mailbox-numbers.html)
+
