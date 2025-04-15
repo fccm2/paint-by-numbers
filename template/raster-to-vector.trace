@@ -1,0 +1,1 @@
+autotrace --color-count 8 --despeckle-level 8 --output-format svg input-raster.pnm
