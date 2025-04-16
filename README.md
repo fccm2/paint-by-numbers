@@ -32,3 +32,6 @@ https://fccm2.github.io/paint-by-numbers/apartment-bedroom-contemporary/apartmen
 - [baseball](
 https://fccm2.github.io/paint-by-numbers/baseball/baseball-.html)
 
+- [woman-reading-newspaper-table](
+https://fccm2.github.io/paint-by-numbers/woman-reading-newspaper-table/woman-reading-newspaper-table.html)
+
