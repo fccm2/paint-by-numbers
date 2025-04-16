@@ -20,3 +20,6 @@ https://fccm2.github.io/paint-by-numbers/autumn-road-mountain/autumn-road-mounta
 - [interior-room-sofa](
 https://fccm2.github.io/paint-by-numbers/interior-room-sofa/interior-room-sofa.html)
 
+- [venice-canal](
+https://fccm2.github.io/paint-by-numbers/venice-canal/venice-canal.html)
+
