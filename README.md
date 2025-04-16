@@ -26,3 +26,6 @@ https://fccm2.github.io/paint-by-numbers/venice-canal/venice-canal.html)
 - [brown-cat-portrait](
 https://fccm2.github.io/paint-by-numbers/brown-cat-portrait/brown-cat-portrait.html)
 
+- [apartment-bedroom-contemporary](
+https://fccm2.github.io/paint-by-numbers/apartment-bedroom-contemporary/apartment-bedroom-contemporary.html)
+
