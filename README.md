@@ -29,3 +29,6 @@ https://fccm2.github.io/paint-by-numbers/brown-cat-portrait/brown-cat-portrait.h
 - [apartment-bedroom-contemporary](
 https://fccm2.github.io/paint-by-numbers/apartment-bedroom-contemporary/apartment-bedroom-contemporary.html)
 
+- [baseball](
+https://fccm2.github.io/paint-by-numbers/baseball/baseball-.html)
+
