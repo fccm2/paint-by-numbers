@@ -35,3 +35,6 @@ https://fccm2.github.io/paint-by-numbers/baseball/baseball-.html)
 - [woman-reading-newspaper-table](
 https://fccm2.github.io/paint-by-numbers/woman-reading-newspaper-table/woman-reading-newspaper-table.html)
 
+- [porto-portugal-hill](
+https://fccm2.github.io/paint-by-numbers/porto-portugal-hill/porto-portugal-hill.html)
+
