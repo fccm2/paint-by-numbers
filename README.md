@@ -38,3 +38,6 @@ https://fccm2.github.io/paint-by-numbers/woman-reading-newspaper-table/woman-rea
 - [porto-portugal-hill](
 https://fccm2.github.io/paint-by-numbers/porto-portugal-hill/porto-portugal-hill.html)
 
+- [macaw-parrot](
+https://fccm2.github.io/paint-by-numbers/macaw-parrot/macaw-parrot.html)
+
