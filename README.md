@@ -41,3 +41,6 @@ https://fccm2.github.io/paint-by-numbers/porto-portugal-hill/porto-portugal-hill
 - [macaw-parrot](
 https://fccm2.github.io/paint-by-numbers/macaw-parrot/macaw-parrot.html)
 
+- [dog-portrait](
+https://fccm2.github.io/paint-by-numbers/dog-portrait/dog-portrait.html)
+
